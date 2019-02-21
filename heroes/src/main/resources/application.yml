@@ -1,6 +1,13 @@
 spring:
   application:
     name: apex-client-heroes
+  jpa:
+    hibernate:
+      ddl-auto: create
+  datasource:
+    url: jdbc:mysql://localhost:3306/Apex
+    username: root
+    password: 1
 server:
   port: 8081
 eureka:
