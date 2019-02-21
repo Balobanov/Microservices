@@ -2,3 +2,5 @@
 /.idea/
 /discovery/.mvn/
 /discovery/target/
+/heroes/.mvn/
+/load-balancer/.mvn/
