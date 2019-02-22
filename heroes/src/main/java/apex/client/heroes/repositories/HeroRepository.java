@@ -1,6 +1,6 @@
 package apex.client.heroes.repositories;
 
-import apex.client.heroes.heroes.Hero;
+import apex.db.common.models.Hero;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;
