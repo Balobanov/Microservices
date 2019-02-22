@@ -10,6 +10,9 @@
 
     <modules>
         <module>discovery</module>
+        <module>common</module>
+        <module>heroes</module>
+        <module>load-balancer</module>
     </modules>
 
 </project>

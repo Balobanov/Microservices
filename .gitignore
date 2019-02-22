@@ -4,3 +4,6 @@
 /discovery/target/
 /heroes/.mvn/
 /load-balancer/.mvn/
+/common/target/
+/common/.mvn/
+!/common/.mvn/

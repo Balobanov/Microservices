@@ -1,4 +1,4 @@
-package apex.client.heroes.heroes;
+package apex.db.common.models;
 
 import org.hibernate.annotations.GenericGenerator;
 import org.hibernate.annotations.Type;
